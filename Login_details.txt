@@ -1,0 +1,11 @@
+open start.py to run the project
+
+For admin login details
+
+Username - shivansh
+Password - shivansh
+
+For customer login details
+
+Username - simran
+Password - simran
